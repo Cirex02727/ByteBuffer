@@ -1,3 +1,3 @@
 # ByteBuffer Framework
 
-Designed designed for .Net Framework
+Designed for .Net Framework
