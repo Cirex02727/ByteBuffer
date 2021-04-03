@@ -1,0 +1,7 @@
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBufferF\bin\Debug\ByteBufferF.dll.config
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBufferF\bin\Debug\ByteBufferF.dll
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBufferF\bin\Debug\ByteBufferF.pdb
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBufferF\obj\Debug\ByteBufferF.csprojAssemblyReference.cache
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBufferF\obj\Debug\ByteBufferF.csproj.CoreCompileInputs.cache
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBufferF\obj\Debug\ByteBufferF.dll
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBufferF\obj\Debug\ByteBufferF.pdb

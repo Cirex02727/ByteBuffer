@@ -1,0 +1,9 @@
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBuffer\bin\Debug\netcoreapp3.1\ByteBuffer.deps.json
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBuffer\bin\Debug\netcoreapp3.1\ByteBuffer.dll
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBuffer\bin\Debug\netcoreapp3.1\ByteBuffer.pdb
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBuffer\obj\Debug\netcoreapp3.1\ByteBuffer.csprojAssemblyReference.cache
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBuffer\obj\Debug\netcoreapp3.1\ByteBuffer.AssemblyInfoInputs.cache
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBuffer\obj\Debug\netcoreapp3.1\ByteBuffer.AssemblyInfo.cs
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBuffer\obj\Debug\netcoreapp3.1\ByteBuffer.csproj.CoreCompileInputs.cache
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBuffer\obj\Debug\netcoreapp3.1\ByteBuffer.dll
+C:\Users\Samuele\source\repos\ByteBuffer\ByteBuffer\obj\Debug\netcoreapp3.1\ByteBuffer.pdb
